@@ -1,0 +1,10 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+
+/url-back/node_modules
+/url-back/.env
+/url-back/dist
+/url-frontend/node_modules
+/url-frontend/build
+/url-frontend/.netlify
